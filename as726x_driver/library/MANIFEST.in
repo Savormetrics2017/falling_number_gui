@@ -1,0 +1,6 @@
+include CHANGELOG.txt
+include LICENSE.txt
+include README.rst
+include setup.py
+recursive-include as7262 *.py
+recursive-include as7263 *.py
